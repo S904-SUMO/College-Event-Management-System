@@ -91,6 +91,9 @@ header {
 }
 .navbar li {
   margin: 0 10px;
+  display:block;
+  position: relative;
+
 }
 .navbar a {
   color: white;
@@ -98,6 +101,7 @@ header {
   padding: 10px 15px;
   display: block;
 }
+
 .hero {
   text-align: center;
   background: #e0e0e0;
